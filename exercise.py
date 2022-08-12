@@ -18,3 +18,7 @@ while count <= 2:
 
     count += 1
 
+    #Task2-ex4
+    #Your task is to write a Python program to convert 
+    # month name to a number of days. 
+
