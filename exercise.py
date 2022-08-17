@@ -1,6 +1,6 @@
 #Task1-ex4
 #Your task is to write a program which asks the user 
-# two times about two integer numbers to compare. 
+#two times about two integer numbers to compare. 
 
 count = 1
 while count <= 2:
@@ -21,7 +21,7 @@ while count <= 2:
 
     #Task2-ex4
     #Your task is to write a Python program to convert 
-    # month name to a number of days. 
+    #month name to a number of days. 
     
 
 print("List of months: January, February, March, April, May, June, July, August, September, October, November, December")
